@@ -32,6 +32,8 @@
       {{ content }}
 
       <!-- Repeating Data: -->
+      <!-- Loop Starts Here -->
+      {% for block in site.data.listing.album %}
       <div class="cards">
         <div class="card">
           <div class="picture">
@@ -45,6 +47,8 @@
           </div>
         </div>
       </div>
+      {% endfor %}
+      <!-- End of Loop -->
 
       <footer class="site-footer">
         <!-- {% if site.github.is_project_page %}
