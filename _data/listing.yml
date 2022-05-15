@@ -6,3 +6,21 @@ album:
   story-content: Released February 4, 2022
   tag-link: "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd?si=hMLp7gz6RDeZNN8FUHd_xg"
   tag: Listen on Spotify
+
+  album: 
+- image: "https://static.stereogum.com/uploads/2022/01/cover-Big-Thief-Dragon-New-Warm-Mountain-I-Believe-In-You-1643293234-870x870.jpg"
+  image-alt: Cover art for 'Dragon New Warm Mountain I Believe In You'
+  title: Dragon New Warm Mountain I Believe In You
+  subtitle: Big Thief
+  story-content: Released February 11, 2022
+  tag-link: "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY?si=bZNApcw_Ta2LBPOFy4Iw1g"
+  tag: Listen on Spotify
+
+  album: 
+- image: "https://media.pitchfork.com/photos/622eb47edd123e9e0e460c96/1:1/w_600/AETHIOPES_COVER_1200.jpg"
+  image-alt: Cover art for 'Aethiopes'
+  title: Aethiopes
+  subtitle: billy woods
+  story-content: Released April 8, 2022
+  tag-link: "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD?si=ZMc4hJlLSEmi5ScRor_1xA"
+  tag: Listen on Spotify
