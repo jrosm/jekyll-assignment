@@ -2,17 +2,19 @@
 
 ---
 
-@import "{{site.theme}}";
+@import "{{ site.theme }}";
 
-h1 {
+.page-header h1 {
     color:  #0000;
 }
 
-header.page-header.about {
+.about {
     padding: 0;
 }
 
-li.button {
+nav.ul {
     display: flex;
     list-style: none;
+    justify-content: center;
+    padding-left: 0;
 }
