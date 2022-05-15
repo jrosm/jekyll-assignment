@@ -1,3 +1,9 @@
+---
+layout: default
+title: Index
+description: This Is Our Index Page
+---
+
 ## Welcome to GitHub Pages
 
 Displaying the site title: {{site.title}} :)
