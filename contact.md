@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: about
 title: Contact Us
-description: Our Address and Hours
+description: Get In Touch
 order: 3
 ---
 
