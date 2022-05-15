@@ -6,6 +6,5 @@ order: 4
 ---
 
 # My Favorite Albums of 2022
-{% include nav.html %}
 
 {% include credits.html%}
