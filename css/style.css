@@ -1,9 +1,9 @@
-@import {{site.theme}};
+@import "{{site.theme}}";
 
 h1 {
     color: black;
 }
 
-.about {
+.page-header.about {
     padding: 0;
 }
