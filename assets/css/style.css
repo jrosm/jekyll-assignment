@@ -1,7 +1,7 @@
 @import "{{site.theme}}";
 
 h1 {
-    color: black;
+    color:  #0000;
 }
 
 header.page-header.about {
