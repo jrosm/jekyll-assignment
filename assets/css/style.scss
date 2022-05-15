@@ -19,3 +19,14 @@ nav ul {
     justify-content: center;
     padding-left: 0;
 }
+
+// Listing CSS
+.card {
+    display: flex;
+    margin-bottom: 1rem;
+    border-bottom: solid 1px #ccc;
+}
+
+.picture {
+    margin-right: 1.5rem;
+}
