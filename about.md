@@ -5,3 +5,5 @@ description: Learn More About Our Team
 ---
 
 # About Us
+
+{% include credits.html%}
