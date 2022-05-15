@@ -2,6 +2,11 @@
 ---
 
 // $header-heading-color: #000 !default;
+.h1{
+    color: black;
+}
+
+$header-bg-color: black !default;
 
 @import "{{ site.theme }}";
 
