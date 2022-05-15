@@ -5,3 +5,5 @@ description: Our Address and Hours
 ---
 
 # Contact Us
+
+{% include credits.html%}
