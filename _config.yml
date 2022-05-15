@@ -4,6 +4,10 @@ baseurl: /jekyll-assignment/
 
 title: Jekyll Assignment
 description: This is my Jekyll assignment for CIM443: Front-End Fundamentals!
+author: Jacob Rosmarin
+
+instagram: "https:instagram.com/jacorosm"
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
