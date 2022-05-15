@@ -6,6 +6,5 @@ order: 2
 ---
 
 # About Us
-{% include nav.html %}
 
 {% include credits.html%}
