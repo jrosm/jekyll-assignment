@@ -17,6 +17,15 @@ album:
   tag: Listen on Spotify
 
   album: 
+- image: "https://media.pitchfork.com/photos/61f86f77c5f6f514db2af019/master/pass/MTMM%20Cover%2010x10.jpg"
+  image-alt: Cover art for 'MOTOMAMI'
+  title: MOTOMAMI
+  subtitle: Rosalia
+  story-content: Released March 18, 2022
+  tag-link: "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo?si=cFUZsE_MQXaN-5mCVuj8Xw"
+  tag: Listen on Spotify
+
+  album: 
 - image: "https://media.pitchfork.com/photos/622eb47edd123e9e0e460c96/1:1/w_600/AETHIOPES_COVER_1200.jpg"
   image-alt: Cover art for 'Aethiopes'
   title: Aethiopes
