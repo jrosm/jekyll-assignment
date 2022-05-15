@@ -10,4 +10,5 @@ header.page-header.about {
 
 li.button {
     display: flex;
+    list-style: none;
 }
