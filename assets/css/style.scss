@@ -1,0 +1,32 @@
+---
+---
+
+$header-heading-color: #000 !default;
+
+@import "{{ site.them }}";
+
+// .page-header h1 {
+//     color:  black;
+// }
+
+.about {
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    padding-left: 0;
+}
+
+// Listing CSS
+.card {
+    display: flex;
+    margin-bottom: 1rem;
+    border-bottom: solid 1px #ccc;
+}
+
+.picture {
+    margin-right: 1.5rem;
+}
