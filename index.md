@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Welcome
-description: This Is Our Index Page
+description: Jacob's Website
 order: 1
 ---
 
-## Welcome to GitHub Pages
+## Welcome To My Website
 
 Displaying the site title: {{site.title}} :)
